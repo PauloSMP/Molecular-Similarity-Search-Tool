@@ -1,6 +1,6 @@
 # 🧪 Molecular Similarity Search Tool 👨‍🔬
     
-#### 🎥 Video Demo:  <URL HERE>
+#### 🎥 Video Demo:  <https://www.youtube.com/watch?v=ZhnIEjypgi0>
     
 #### 🖹 Description: 
 Welcome to my final project of CS50’s Introduction to Programming with Python. This project leverages the [PubChem PUG REST API](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest) and the [RDKit](https://www.rdkit.org/docs/index.html) chemoinformatic library, to build a **Molecular Similarity Search Tool**.
