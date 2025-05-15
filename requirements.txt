@@ -1,0 +1,4 @@
+#Libs to be installed
+#The following libraries are required to run the code and can be installed using pip:
+#pip install requests
+#pip install rdkit

@@ -1,0 +1,6 @@
+Rank,PubChemCID,Similarity,IUPAC_NAME,M-Formula
+1,2405,1.0,1-(propan-2-ylamino)-3-[4-(2-propan-2-yloxyethoxymethyl)phenoxy]propan-2-ol,C18H31NO4
+2,4171,0.6170212765957447,1-[4-(2-methoxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol,C15H25NO3
+3,2249,0.5714285714285714,2-[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]acetamide,C14H22N2O3
+4,2369,0.5660377358490566,1-[4-[2-(cyclopropylmethoxy)ethyl]phenoxy]-3-(propan-2-ylamino)propan-2-ol,C18H29NO3
+5,59768,0.5490196078431373,methyl 3-[4-[2-hydroxy-3-(propan-2-ylamino)propoxy]phenyl]propanoate,C16H25NO4
